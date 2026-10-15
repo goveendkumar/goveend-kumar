@@ -55,8 +55,8 @@ Project links will be added as I complete and publish each project.
 
  🌐 Connect With Me
 
-- GitHub: [GITHUB_USERNAME](https://github.com/goveendkumar/)
-- LinkedIn: [LINKEDIN_URL](https://www.linkedin.com/in/goveend-kumar108/?isSelfProfile=true)
+- GitHub: [GITHUB](https://github.com/goveendkumar/)
+- LinkedIn: [LINKEDIN](https://www.linkedin.com/in/goveend-kumar108/?isSelfProfile=true)
 
 
 ⭐ Thanks for visiting my profile!
