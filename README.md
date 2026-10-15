@@ -61,4 +61,4 @@ Project links will be added as I complete and publish each project.
 
 ⭐ Thanks for visiting my profile!
 
-Learning every day. Improving with every project. Turning data into insights.*
+Learning every day. Improving with every project. Turning data into insights.
